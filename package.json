@@ -1,0 +1,25 @@
+{
+  "name": "express-validations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murali0101/EXPRESS-VALIDATIONS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murali0101/EXPRESS-VALIDATIONS/issues"
+  },
+  "homepage": "https://github.com/murali0101/EXPRESS-VALIDATIONS#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
